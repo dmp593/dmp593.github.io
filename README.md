@@ -1,1 +1,3 @@
-# dmp593.github.io
+# Who I am
+
+Hello, I'm a Software Engineer from Portugal with a background as a professor at the Polytechnic Institute of Leiria. My primary focus is on developing innovative software solutions that improve user experiences and optimize processes. I am passionate about solving complex challenges and making a meaningful impact through technology. My work centers on guiding teams in Software Architecture, promoting best practices, and fostering a culture of continuous learning and improvement. I also enjoy mentoring others and collaborating with cross-functional teams to deliver high-quality software products.
